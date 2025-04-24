@@ -1,0 +1,16 @@
+body {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2f2f2f;
+    font-weight: bold;
+}
+
+a:not(header a):not(nav a):not(a.btn) {
+    text-decoration: underline;
+}
+
+p, ul {
+    margin: 8px 0;
+}
