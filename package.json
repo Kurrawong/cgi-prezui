@@ -1,6 +1,6 @@
 {
     "name": "cgi-prez4",
-    "version": "4.0.5",
+    "version": "1.0.0",
     "private": true,
     "license": "BSD-3-Clause",
     "type": "module",
@@ -8,7 +8,7 @@
         "build": "nuxt build",
         "dev": "nuxt dev",
         "semantic-release": "semantic-release",
-        "semantic-release:dry": "semantic-release --dry-run",    
+        "semantic-release:dry": "semantic-release --dry-run",
         "generate": "nuxt generate",
         "types": "nuxt typecheck",
         "preview": "nuxt preview",
