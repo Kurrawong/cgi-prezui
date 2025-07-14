@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Kurrawong/cgi-prezui/compare/v1.0.0...v1.1.0) (2025-07-14)
+
+
+### Features
+
+* added vocabularies page, vocab pages now query & show collections ([878f6bc](https://github.com/Kurrawong/cgi-prezui/commit/878f6bc6aff4a97f9fa172f8619195be8dd5511f))
+
 # 1.0.0 (2025-04-28)
 
 
