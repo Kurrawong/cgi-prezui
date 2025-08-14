@@ -5,7 +5,7 @@
             <p>For the description of geological features, geological time, mineral occurrences, and mining-related features.</p>
             <h4>Vocabularies for GeoSciML and EarthResourceML</h4>
             <ul class="list-disc ml-8">
-                <li><NuxtLink to="/vocabularies">GeoSciML & EarthResourceML Vocabularies</NuxtLink></li>
+                <li><NuxtLink to="/vocab">GeoSciML & EarthResourceML Vocabularies</NuxtLink></li>
             </ul>
             <h4>Vocabularies for Geological Time - the ICS international stratigraphic timescale</h4>
             <ul class="list-disc ml-8">
