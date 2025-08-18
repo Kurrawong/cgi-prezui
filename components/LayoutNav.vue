@@ -18,7 +18,7 @@ function isActive(url: string): boolean {
 
 <template>
     <div class="relative">
-        <nav class="main-nav container font-extralight mx-auto px-4 py-4 hidden md:flex md:flex-row justify-center gap-8 text-lg">
+        <nav class="main-nav container font-extralight mx-auto px-4 py-4 flex flex-row justify-center gap-8">
             <NuxtLink
                 v-for="{ label, url } in appConfig.menu.filter(item => item.active !== false)"
                 :to="url"
