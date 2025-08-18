@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Kurrawong/cgi-prezui/compare/v1.1.0...v1.2.0) (2025-08-18)
+
+
+### Features
+
+* upgraded prez-ui, increased pagination limits, patched security vulnerabilities ([2878f1a](https://github.com/Kurrawong/cgi-prezui/commit/2878f1a23492d5b6aac01de01a2f19e3b522a80f))
+
 # [1.1.0](https://github.com/Kurrawong/cgi-prezui/compare/v1.0.0...v1.1.0) (2025-07-14)
 
 
