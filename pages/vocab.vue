@@ -164,10 +164,6 @@ const earthResourceVocabs: CGIVocabRegister[] = [
         vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2016.01/commodity-code", label: "v2016.01" },
     },
     {
-        collection: { iri: "http://resource.geosciml.org/classifier/cgi/deposit-model", label: "Deposit Model" },
-        vocab: { iri: "http://resource.geosciml.org/classifier/cgi/deposit-model", label: "v2016.01" },
-    },
-    {
         collection: { iri: "http://resource.geosciml.org/classifier/cgi/earth-resource-expression", label: "Earth Resource Expression" },
         vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2016.01/earth-resource-expression", label: "v2016.01" },
     },
@@ -198,6 +194,10 @@ const earthResourceVocabs: CGIVocabRegister[] = [
     {
         collection: { iri: "http://resource.geosciml.org/classifier/cgi/exploration-result", label: "Exploration Result" },
         vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2016.01/exploration-result", label: "v2016.01" },
+    },
+    {
+        collection: { iri: "http://resource.geosciml.org/classifier/cgi/mineral-deposit-model", label: "Mineral Deposit Model" },
+        vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2023.11/mineral-deposit-model", label: "v2023.11" },
     },
     {
         collection: { iri: "http://resource.geosciml.org/classifier/cgi/mineral-occurrence-type", label: "Mineral Occurrence Type" },
