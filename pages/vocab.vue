@@ -204,6 +204,10 @@ const earthResourceVocabs: CGIVocabRegister[] = [
         vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2016.01/mineral-occurrence-type", label: "v2016.01" },
     },
     {
+        collection: { iri: "http://resource.geosciml.org/classifier/cgi/mineral-deposit-model", label: "Mineral Deposit Model" },
+        vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2023.11/mineral-deposit-model", label: "2023.11" },
+    },
+    {
         collection: { iri: "http://resource.geosciml.org/classifier/cgi/mine-status", label: "Mine Status" },
         vocab: { iri: "http://resource.geosciml.org/classifierscheme/cgi/2016.01/mine-status", label: "v2016.01" },
     },
